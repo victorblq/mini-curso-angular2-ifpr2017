@@ -1,5 +1,5 @@
 # Mini Curso Angular 2 + firebase 
-##IFPR - 2017
+## IFPR - 2017
 
 Conteúdo completo do minicurso (Com Angular Material 2) apresentado na semana academica do IFPR - 2017
 
@@ -9,8 +9,11 @@ Link da apresentação:
 Links para download das ferramentas utilizadas:
 
 [Node.JS](https://nodejs.org/en/)
+
 [TypeScript](http://www.typescriptlang.org/)
+
 [Angular 2](https://angular.io/)
+
 [Firebase](https://firebase.google.com/?hl=pt-br)
 
 Para configurar o ambiente deve-se seguir alguns passos:
