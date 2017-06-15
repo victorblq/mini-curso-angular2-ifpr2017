@@ -1,28 +1,28 @@
-# MiniCursoSemMateral
+# Mini Curso Angular 2 + firebase 
+##IFPR - 2017
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
+Conteúdo completo do minicurso (Com Angular Material 2) apresentado na semana academica do IFPR - 2017
 
-## Development server
+Link da apresentação:
+[Google Docs](https://drive.google.com/open?id=1BS5bXVz5K8ymI1fPhsfDceQA6EwP8XCV58rs8jgJzeA)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Links para download das ferramentas utilizadas:
 
-## Code scaffolding
+[Node.JS](https://nodejs.org/en/)
+[TypeScript](http://www.typescriptlang.org/)
+[Angular 2](https://angular.io/)
+[Firebase](https://firebase.google.com/?hl=pt-br)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+Para configurar o ambiente deve-se seguir alguns passos:
+1) Intalar o Node.JS
+2) Instalar o typescript
+3) Instalar o Angular CLI
+4) Instalar o Visual Studio Code
 
-## Build
+Como prometido a baixo está o link para o script que desenvolvi para instalar todas as ferramentas.
+O script foi feito para rodar em maquinas linux.
+Para rodar o script apenas é necessário acesso de super usuário.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+[Script](https://drive.google.com/open?id=0B0tlbWHZGP-6UmpEaEktdzJ3eGs)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Dúvidas podem ser encaminhadas para o meu email: [victor.blq@gmail.com](mailto:victor.blq@gmail.com)
